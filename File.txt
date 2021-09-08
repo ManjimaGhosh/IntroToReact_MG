@@ -1,3 +1,4 @@
 This is a text file.
 This is my first update operation.
 This is my second branch. This is my second branch edit.
+This is my third branch.
